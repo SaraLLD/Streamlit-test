@@ -1,5 +1,5 @@
 # Streamlit Titanic App
-lien du streamlit: https://app-test-ufrskbqwyow3h64nvldtua.streamlit.app/ 
+Lien du Streamlit: https://app-test-ufrskbqwyow3h64nvldtua.streamlit.app/ 
 
 Application Streamlit pour afficher et visualiser un jeu de données Titanic.
 
